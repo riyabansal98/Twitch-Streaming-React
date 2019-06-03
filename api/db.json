@@ -2,7 +2,7 @@
   "streams": [
     {
       "title": "test",
-      "description": "test",
+      "description": "New",
       "userId": "106050504473622428228",
       "id": 1
     },
@@ -14,8 +14,7 @@
     },
     {
       "title": "hi",
-      "description": "hi",
-      "userId": "106050504473622428228",
+      "description": "Refractored",
       "id": 3
     },
     {
